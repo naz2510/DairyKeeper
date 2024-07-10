@@ -22,4 +22,5 @@ BILL GENERATION -(as per required customer and month)
 ![Screenshot 2023-11-06 172313](https://github.com/naz2510/Milk-Delivery-Records/assets/174327360/76835d87-efd0-42e8-8527-534c973d6ff7)
 
 BILL-
+
 ![Screenshot 2023-11-06 172401](https://github.com/naz2510/Milk-Delivery-Records/assets/174327360/1ce3c931-2918-462d-a6b4-4dca3f63c7d9)
